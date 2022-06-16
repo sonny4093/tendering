@@ -1,0 +1,42 @@
+
+.previewarea {
+	margin-left: 120px;
+	text-align: center;
+	margin-top: 70px;
+	background-color: white
+}
+.tenderheader {
+	width: 777px;
+	height: 65px;
+	text-align: left;
+	background-color: #fafafa;
+	border-color: #f0f0f0;
+	border-style: solid;
+	border-width: 1px;
+	box-shadow: 0 0px 5px #ededed;
+	border-radius: 5px;
+	margin-left: 71px;
+	margin-top: 95px;
+
+}
+.tender {
+	margin-left: 68px;
+	width: 777px;
+	height: auto;
+	text-align: left;
+	margin-top: 20px;
+
+}
+.tender a {
+	color: #3a7cb1;
+	font-weight: bold;
+	font-size: 13px;
+}
+.tender p {
+	color: #333333;
+	//font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+.tender1:hover {
+	background-color: #fafafa;
+}
