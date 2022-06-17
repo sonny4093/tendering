@@ -1,6 +1,6 @@
 # Online tendering
 ## Group member 
-*** name ***
+***name***
  ### 1. Selemon Ketema
  ### 2.
  ### 3.
